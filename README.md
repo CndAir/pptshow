@@ -88,8 +88,3 @@ public class Main {
 The common PPT generation process does not rely on system or third-party components for any function  
 Linux or Windows systems can be used normally  
 Video and image generation for Windows is achieved by calling Windows Office through vbs, only these two functions depend on Windows system
-
-### Licensing Protocol
-Apache-2.0 License Agreement  
-i.e. for commercial use, modification, distribution, proprietary use, private use  
-However, registration as a trademark is not permitted, and no responsibility or guarantee of availability is given for the program.
